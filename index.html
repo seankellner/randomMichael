@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script type="text/javascript" src="imgList.js"></script>
+
+</HEAD>
+
+
+<BODY>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+
+</script>
+<div id="mimg" style="margin:auto; width:50%; text-align:center ">
+
+</div>
+<SCRIPT LANGUAGE="JavaScript">
+
+    var whichImage = Math.floor(Math.random()*imgs.length);
+
+    function showImage(){
+        document.getElementById("mimg").innerHTML = '<img style="width:auto; height:auto; " src="'+ imgs[whichImage] +'">';
+    }
+    showImage();
+    </script>
+
+</BODY>
+</html>
