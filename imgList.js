@@ -7,4 +7,7 @@ var imgs = [
 'img/d.jpg',
 'img/e.jpg',
 'img/f.jpg',
+'img/g.jpg',
+'img/h.jpg',
+'img/i.jpg',
 ];
