@@ -10,4 +10,9 @@ var imgs = [
 'img/g.jpg',
 'img/h.jpg',
 'img/i.jpg',
+'img/j.jpg',
+'img/k.jpg',
+'img/l.jpg',
+'img/m.jpg',
+'img/n.jpg',
 ];
